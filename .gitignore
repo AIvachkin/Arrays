@@ -1,1 +1,4 @@
+*.iml
 /Arrays.iml
+/.idea/
+/out/
